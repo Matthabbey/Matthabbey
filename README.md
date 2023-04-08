@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a full-stack software developer who has expertise in both the front-end and back-end aspects of web development. As I have over two years of experience having a strong foundation in a variety of programming languages and technologies, including: Based on my experience as Software Developer Node.js || Vite | React.js || Express || Typescript || JavaScript || HTML & CSS || Bootstrap || TDD with Jest || REST || MySQL, Postgres || Docker || Human Capital Developer || Tailwind Are you open to a quick chat to discuss the position? I’d love to learn more about it, and share more about my own qualifications. I look forward to hearing from you. Version control systems: Git Development tools: Integrated development environments (IDEs), testing and debugging tools
+I am a full-stack software developer who has expertise in both the front-end and back-end aspects of web development. As I have over two years of experience having a strong foundation in a variety of programming languages and technologies. Based on my experience as Software Developer Node.js || Vite | React.js || Express || Typescript || JavaScript.
+Are you open to a quick chat to discuss the position? I’d love to learn more about it, and share more about my own qualifications. I look forward to hearing from you. Version control systems: Git Development tools: Integrated development environments (IDEs), testing and debugging tools
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [matthabbey@gmail.com](mailto:matthabbey@gmail.com)
